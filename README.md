@@ -8,3 +8,5 @@ Um clone do Databricks Genie
 <p align="center">
   <img src="sql-genie.png" alt="Sistema Construído">
 Sistema Construído
+
+<a href="https://www.linkedin.com/posts/cientista-de-dados1_bi-llm-sql-activity-7412608215273840640--JCG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUblZMBhr9goiDPfQ2w_j09X_HZjjrcfYU">Veja o video</a>
